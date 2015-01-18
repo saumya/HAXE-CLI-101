@@ -1,0 +1,9 @@
+# HAXE build
+-main MyCliApp
+# NEKO : compilation
+-neko bin/myCliApp.n
+#
+#--next
+#
+# CPP : compilation
+#-cpp bin/cpp/
